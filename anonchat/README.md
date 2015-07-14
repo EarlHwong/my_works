@@ -1,7 +1,7 @@
 Anonymous Chat
 ==
 ****
->这是我第一个yii应用。麻雀虽小五脏俱全，匿名聊天包含了yii很多基本的功能：注册，登陆，表单提交，验证，数据逻辑处理等等……  
+>这是我第一个yii应用。匿名聊天包含了yii很多基本的功能：注册，登陆，表单提交，验证，数据逻辑处理等等……  
 >做完之后，我对yii框架有了更深的了解，同时在打码过程中，谷歌了很多东西，积累了很多有用的经验  
 
 * 效果：[http:1.earlhwong.sinaapp.com/anonchat/](http:1.earlhwong.sinaapp.com/anonchat/)  
